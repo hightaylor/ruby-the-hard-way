@@ -17,5 +17,5 @@ puts "There will be #{cars_not_driven} empty cars today."
 puts "We can transport #{carpool_capacity} people today."
 #This line will print the string and pull the variable's value and interpret it in the place of it's name.
 puts "We have #{passengers} to carpool today."
-#This line will print the string and pull the variable's value, which is actually a variable divided by another variable, and print the result in the place of it's name. 
+#This line will print the string and pull the variable's value, which is actually a variable divided by another variable, and print the result in the place of it's name.
 puts "We have to put about #{average_passengers_per_car} in each car."
